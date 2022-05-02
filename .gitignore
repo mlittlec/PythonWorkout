@@ -1,0 +1,8 @@
+# Ignore the JetBrains directories
+./idea/
+misc.xml
+modules.xml
+PythonWorkout.iml
+vcs.xml
+profiles_settings.xml
+Project_Default.xml
